@@ -1,0 +1,9 @@
+git status
+git diff
+git add
+git commit -m ""
+git log
+git log --pretty=oneline
+git reset --hard HEAD^
+git reset --hard 
+git reflog
