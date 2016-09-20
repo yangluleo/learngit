@@ -7,3 +7,5 @@ git log --pretty=oneline
 git reset --hard HEAD^
 git reset --hard 
 git reflog
+git checkout -- readme.txt
+git rm
